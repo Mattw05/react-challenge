@@ -1,12 +1,13 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import Header from './Header';
 import Footer from './Footer';
-import AboutMe from '../pages/AboutMe';
+import About from '../pages/AboutMe';
 import Project from '../pages/Project';
-import ContactMe from '../pages/ContactMe';
+import Contact from '../pages/ContactMe';
 import Resume from "../pages/Resume"
+
 export default function PortfolioContainer() {
-  const [currentPage, setCurrentPage] = useState('Home');
+  const [currentPage, setCurrentPage] = useState('About');
 
   // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
   const renderPage = () => {
@@ -22,14 +23,24 @@ export default function PortfolioContainer() {
     return <Contact />;
   };
 
-  const handlePageChange = (page) => setCurrentPage(page);
+  useEffect(()=>{
+    renderPage()
+  },[currentPage])
+  
+  const handlePageChange = (page) => {
+    setCurrentPage(page)
+    console.log("Page",currentPage,page,"page value")
+    console.log(currentPage)
+  };
 
   return (
     <div>
       {/* We are passing the currentPage from state and the function to update it */}
       <Header currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Here we are calling the renderPage method which will return a component  */}
-      <main className="mx-3">{renderPage()}</main>
+      <main className="mx-3">
+        {renderPage()}
+        </main>
       <Footer></Footer>
     </div>
   );

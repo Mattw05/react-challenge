@@ -1,6 +1,6 @@
 import Nav from 'react-bootstrap/Nav';
 
-function Header() {
+function Header({ currentPage, handlePageChange }) {
   return (<>
   <h1>Matthew Weigandt</h1>
     <Nav defaultActiveKey="/" className="flex-column">
