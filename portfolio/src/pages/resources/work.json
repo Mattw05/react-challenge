@@ -8,7 +8,7 @@
     },
     {
         "title":"Mvc-Challenge",
-        "description":"HTML semantic element usage",
+        "description":"Full stack app using Express,handlebars,sequelize,bcryp, session storage",
         "github":"https://github.com/Mattw05/mvc-challenge",
         "live":"https://mattw05.github.io/mvc-challenge/",
         "screenshot":"/assets/images/codemvc.jpg"
@@ -72,7 +72,7 @@
     {
         "title":"Readme-Generator",
         "description":"HTML semantic element usage",
-        "github":"https://github.com/Mattw05/readme-generator",
+        "github":"https://github.com/Mattw05/readme-generator"
     },
     {
         "title":"Taskboard-Challenge",

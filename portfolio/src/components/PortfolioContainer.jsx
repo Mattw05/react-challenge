@@ -23,16 +23,20 @@ export default function PortfolioContainer() {
     return <Contact />;
   };
 
-  useEffect(()=>{
-    renderPage()
-  },[currentPage])
+  // useEffect(()=>{
+  //  console.log(currentPage)
+  // },[currentPage])
   
-  const handlePageChange = (page) => {
-    setCurrentPage(page)
-    console.log("Page",currentPage,page,"page value")
-    console.log(currentPage)
-  };
+  // const handlePageChange = (page) => {
+  //   console.log("Page",currentPage,page,"page value")
+  //   setCurrentPage(page)
+  //   // setCurrentPage(prevState => ({
+  //   //   ...prevState, newValue:page
+  //   // }));
+  //   console.log(currentPage)
+  // };
 
+  const handlePageChange = (page) => setCurrentPage(page);
   return (
     <div>
       {/* We are passing the currentPage from state and the function to update it */}
