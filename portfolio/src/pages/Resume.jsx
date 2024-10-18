@@ -4,7 +4,7 @@ function Resume() {
   return (<>
     <Accordion defaultActiveKey={['0']} alwaysOpen>
       <Accordion.Item eventKey="0">
-        <Accordion.Header>Accordion Item #1</Accordion.Header>
+        <Accordion.Header>Summary</Accordion.Header>
         <Accordion.Body>
         Matthew Weigandt
 4485 n Steel rd
@@ -21,7 +21,7 @@ Matthew Weigandt
         </Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="1">
-        <Accordion.Header>Accordion Item #2</Accordion.Header>
+        <Accordion.Header>Work History</Accordion.Header>
         <Accordion.Body>
         Matthew Weigandt
 4485 n Steel rd Hemlock, MI 48722
@@ -58,12 +58,6 @@ Bridgeport High School
 References
 Anthony Wasney- 989-890-7988
 Ken Publow- 989-313-1765
-        </Accordion.Body>
-      </Accordion.Item>
-      <Accordion.Item eventKey="2">
-        <Accordion.Header>Accordion Item #2</Accordion.Header>
-        <Accordion.Body>
-         Copy from actual resume
         </Accordion.Body>
       </Accordion.Item>
     </Accordion>

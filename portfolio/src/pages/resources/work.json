@@ -4,109 +4,42 @@
         "description":"HTML semantic element usage",
         "github":"https://github.com/Mattw05/refactor-challenge-1",
         "live":"https://mattw05.github.io/refactor-challenge-1/",
-        "screenshot":"/assets/images/coderefactor.jpg"
+        "screenshot":"/assets/images/codeRefactor.png"
     },
     {
         "title":"Mvc-Challenge",
         "description":"Full stack app using Express,handlebars,sequelize,bcryp, session storage",
         "github":"https://github.com/Mattw05/mvc-challenge",
         "live":"https://mattw05.github.io/mvc-challenge/",
-        "screenshot":"/assets/images/codemvc.jpg"
+        "screenshot":"/assets/images/codemvc.png"
     },
     {
         "title":"Social-Network-Challenge",
         "description":"HTML semantic element usage",
         "github":"https://github.com/Mattw05/social-network-challenge",
         "live":"https://drive.google.com/file/d/1Kc_J_rtUCfv__8ZVPNN0kpGxvHvvJRSx/view",
-        "screenshot":"/assets/images/codesocial.jpg"
+        "screenshot":"/assets/images/social-network.png"
     },
     {
         "title":"Pwa-Challenge",
         "description":"HTML semantic element usage",
         "github":"https://github.com/Mattw05/pwa-challenge",
         "live":"https://pwa-challenge-1.onrender.com",
-        "screenshot":"/assets/images/codepwa.jpg"
-    },
-    {
-        "title":"Weather-Api",
-        "description":"HTML semantic element usage",
-        "github":"https://github.com/Mattw05/weather-api",
-        "live":"https://mattw05.github.io/weather-api/",
-        "screenshot":"/assets/images/codesocial.jpg"
-    },
-    {
-        "title":"Sql-Employee-Tracker",
-        "description":"HTML semantic element usage",
-        "github":"https://github.com/Mattw05/sql-employee-tracker",
-        "live":"https://drive.google.com/file/d/1scnYaXvc9Hl78M7pVQdd9BtSl0v8sj8-/view",
-        "screenshot":"/assets/images/codesocial.jpg"
+        "screenshot":"/assets/images/pwa-challenge.png"
     },
     {
         "title":"Orm-Challenge",
         "description":"HTML semantic element usage",
         "github":"https://github.com/Mattw05/orm-challenge",
         "live":"https://drive.google.com/file/d/1piGwo2myLcR8g0st2zv7u-KH1niEMV-X/view",
-        "screenshot":"/assets/images/codesocial.jpg"
+        "screenshot":"/assets/images/orm-challenge.png"
     },
     {
-        "title":"Tune_In_Live",
+        "title":"Sql-Employee-Tracker",
         "description":"HTML semantic element usage",
-        "github":"https://github.com/Mattw05/tune_in_live_fork",
-        "live":"git clone https://github.com/yourusername/tuneInLive.git",
-        "screenshot":"/assets/images/codesocial.jpg"
-    },
-    {
-        "title":"Note-Taker",
-        "description":"HTML semantic element usage",
-        "github":"https://github.com/Mattw05/note-taker",
-        "live":"https://mattw05.github.io/note-taker/",
-        "screenshot":"/assets/images/codesocial.jpg"
-    },
-    {
-        "title":"Svg-Logo-Maker",
-        "description":"HTML semantic element usage",
-        "github":"https://github.com/Mattw05/svg-logo-maker",
-        "live":"https://drive.google.com/file/d/1D8nSaTaKLnBoZXJWC-mZBQW-lNbl4uhp/view",
-        "screenshot":"/assets/images/codesocial.jpg"
-    },
-    {
-        "title":"Readme-Generator",
-        "description":"HTML semantic element usage",
-        "github":"https://github.com/Mattw05/readme-generator"
-    },
-    {
-        "title":"Taskboard-Challenge",
-        "description":"HTML semantic element usage",
-        "github":"https://github.com/Mattw05/taskboard-challenge",
-        "live":"https://mattw05.github.io/taskboard-challenge/",
-        "screenshot":"/assets/images/codesocial.jpg"
-    },
-    {
-        "title":"Cocktail-Search",
-        "description":"HTML semantic element usage",
-        "github":"https://github.com/Mattw05/cocktail-search",
-        "live":"https://rich-strain.github.io/cocktail-search/",
-        "screenshot":"/assets/images/codesocial.jpg"
-    },
-    {
-        "title":"My-Blog",
-        "description":"HTML semantic element usage",
-        "github":"https://github.com/Mattw05/my-blog",
-        "live":"https://mattw05.github.io/my-blog/",
-        "screenshot":"/assets/images/codesocial.jpg"
-    },
-    {
-        "title":"Employee-Tracker",
-        "description":"HTML semantic element usage",
-        "github":"https://github.com/Mattw05/employee-tracker",
-        "live":"https://mattw05.github.io/employee-tracker/",
-        "screenshot":"/assets/images/codesocial.jpg"
-    },
-    {
-        "title":"Portfolio-Challenge",
-        "description":"HTML semantic element usage",
-        "github":"https://github.com/Mattw05/portfolio-challenge",
-        "live":"https://mattw05.github.io/portfolio-challenge/",
-        "screenshot":"/assets/images/codesocial.jpg"
+        "github":"https://github.com/Mattw05/sql-employee-tracker",
+        "live":"https://drive.google.com/file/d/1scnYaXvc9Hl78M7pVQdd9BtSl0v8sj8-/view",
+        "screenshot":"/assets/images/sql-employee-tracker.png"
     }
+   
 ]
