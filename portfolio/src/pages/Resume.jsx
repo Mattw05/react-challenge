@@ -6,58 +6,57 @@ function Resume() {
       <Accordion.Item eventKey="0">
         <Accordion.Header>Summary</Accordion.Header>
         <Accordion.Body>
-        Matthew Weigandt
-4485 n Steel rd
-Hemlock, MI 48722
-989-326-3916
-weigandtmatthew@yahoo.com
-october 10, 2024
+        
 I'm applying for a position at your company. Based on the posted description, I'm confident that I am fully
-qualified for the position and will be a strong addition to your team. I would appreciate a job interview at
-your earliest convenience. Please find my resume attached.
-I can be reached at the number above or at my email address.
-Sincerely,
-Matthew Weigandt
+qualified for the position and will be a strong addition to your team. I recently completed a 6 month web development coding bootcamp through MSU and received 
+my fullstack web development certificate
+I would love a job interview at
+your earliest convenience. 
+
         </Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="1">
         <Accordion.Header>Work History</Accordion.Header>
         <Accordion.Body>
-        Matthew Weigandt
-4485 n Steel rd Hemlock, MI 48722
-989-326-3916 • weigandtmatthew@yahoo.com
 
-Objective
-I have 8+ years of manufacturing experience and I would like to contribute my knowledge to help your
+I have 15 years of manufacturing experience and I would like to contribute my knowledge to help your
 company grow.
+
 Key Qualifications
- Multitask running multiple machines at once
+ Multitask running multiple machines at once and
  Set up and run HAAS mills.
- Set up and run 4th and 5th axis work
- Read blueprints/ GD&T
-Experience
-Orchid Orthopedic Solutions
+ Set up and run 4th and 5th axis work, able to 
+ Read blueprints using GD&T.
+
+Experience:
+
+"Orchid Orthopedic Solutions"
 Machinist
- Effective and Efficient job set up
- Ran HAAS mills
- Verified finished jobs to FDA standards
- Set up and ran jobs on 4th and 5th axis
-Great Lakes Englinton
+ Effective and Efficient job set up,
+ on HAAS mills.
+ Verified finished jobs to FDA standards.
+ Set up and ran jobs on 4th and 5th axis mills.
+
+"Great Lakes Englinton"
 Machinist
  Surface grinder
  OD grinder
  ID grinder
  Hone
-Zero Tolerance
+
+"Zero Tolerance"
 Machinist
- HAAS mill
- Bridgeport Prototrak
-Education
+ HAAS mill and 
+ Bridgeport Prototrak.
+
+ Currently working at Merrill tool/Keel. job description is running and maintaining CNC floor Mills. Editing programs as needed using Heidenheim controls 
+ on FPT 5 axis floor mills.
+"Education"
 High School Diploma
 Bridgeport High School
 References
 Anthony Wasney- 989-890-7988
-Ken Publow- 989-313-1765
+Marcus Ramirez- 214-284-7948
         </Accordion.Body>
       </Accordion.Item>
     </Accordion>
